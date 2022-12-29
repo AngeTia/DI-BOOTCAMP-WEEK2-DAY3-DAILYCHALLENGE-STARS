@@ -2,7 +2,6 @@
 let star = "";
 let n = 6;
 for(i=0; i<=6; i++)
-debugger;
 {
     // affiches une nouvelle ligne vertical
     for(j=0; j<i; j++){ 
