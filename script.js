@@ -11,4 +11,4 @@ for(i=0; i<=6; i++)
     // "\n" return
     star += "\n";
 }
-alert(`Le result's :\n${star}`);
+alert(`The result's :\n${star}`);
