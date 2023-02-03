@@ -1,6 +1,6 @@
-// Déclaration de la première variable
+// Variable declaration
 let star = "";
-let n = 6;
+
 for(i=0; i<=6; i++)
 {
     // affiches une nouvelle ligne vertical
@@ -8,7 +8,7 @@ for(i=0; i<=6; i++)
         
         star += " * ";
     }
-    // "\n" les retours à la ligne
+    // "\n" return
     star += "\n";
 }
-alert(`Le resultat est :\n${star}`);
+alert(`Le result's :\n${star}`);
